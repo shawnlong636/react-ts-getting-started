@@ -1,6 +1,6 @@
 import React, { ReactElement } from 'react'
-import logo from './logo.svg'
-import './App.css'
+import logo from '../assets/logo.svg'
+import './App.scss'
 
 const App = (): ReactElement => {
   return (
